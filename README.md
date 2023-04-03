@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**ivanthecoder1/ivanthecoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ivan and I'm a computer science student from the USA. Here's some info about me!
 
-Here are some ideas to get you started:
+⚡ Work experience:
+- Web Developer at Lehigh University - Front-end development on the LTS: Web & Mobile Services team [Bethlehem. Present]
+- Computer Technician intern at The Peak Organization - IT Technical Support on the Peak Systems, Inc. division [New York. Summer 2022]
+- FinTech Focus intern at Goldman Sachs - Full-stack web development in the Goldman Sachs Cohort [Remote. Summer 2021]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently learning:
+- React.js
+- TypeScript
+- MERN Stack
+
+🌱 Interests:
+- Web development
+- Personal Indie Game Development
+- Anime 
+- Video games
+- Weightlifting
+- Boxing
+
+💬 Reach me by email or LinkedIn! ivanzhang0111@gmail.com | [https://www.linkedin.com/in/ivan-zhang-ab571b183/]
+
+

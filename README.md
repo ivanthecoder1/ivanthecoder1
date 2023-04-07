@@ -14,7 +14,6 @@ My name is Ivan and I'm a computer science student from the USA. Here's some inf
 
 🌱 Interests:
 - Web development
-- Personal Indie Game Development
 - Anime 
 - Video games
 - Weightlifting

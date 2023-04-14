@@ -19,6 +19,6 @@ My name is Ivan and I'm a computer science student from the USA. Here's some inf
 - Weightlifting
 - Boxing
 
-💬 Reach me by email or LinkedIn! ivanzhang0111@gmail.com | [https://www.linkedin.com/in/ivan-zhang-ab571b183/]
+
 
 

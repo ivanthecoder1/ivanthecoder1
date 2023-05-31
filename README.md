@@ -3,21 +3,16 @@
 My name is Ivan and I'm a computer science student from the USA. Here's some info about me!
 
 ⚡ Work experience:
-- **Web Developer at Lehigh University** - Front-end development on the LTS: Web & Mobile Services team [Bethlehem. Present]
-- **Computer Technician intern at The Peak Organization** - IT Technical Support on the Peak Systems, Inc. division [New York. Summer 2022]
+- **IT Application Developer at NYC Housing Department Corporation** - IT / Application development [New York. Summer 2023]
+- **Software Developer Intern at GAOTek Inc.** - Front-end focused Software Development [Remote. Spring 2023]
+- **Web Developer at Lehigh University** - Front-end development on the LTS: Web & Mobile Services team [Pennsylvania. Present]
+- **Information Technology Intern at The Peak Organization** - IT Technical Support on the Peak Systems, Inc. division [New York. Summer 2022]
 - **FinTech Focus Fellow at Goldman Sachs** - Full-stack web development in the Goldman Sachs Cohort [Remote. Summer 2021]
-
-🔭 I’m currently learning:
-- TypeScript
-- MERN Stack
 
 🌱 Interests:
 - Web development
-- Anime 
-- Video games
-- Weightlifting
-- Boxing
-
+- Weightlifting, Boxing
+- Anime, Gaming
 
 
 

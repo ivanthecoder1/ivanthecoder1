@@ -40,14 +40,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">
-  <h2> 📈 &nbsp;My GitHub Stats </h2>
-  <p>
-    <a href="https://github.com/ivanthecoder1">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanthecoder1&show_icons=true&theme=transparent&border_radius=5&card_width=500"/>
-      <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ivanthecoder1&theme=transparent&border_radius=5&card_width=500)"/>
+<a href="https://github.com/ivanthecoder1">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanthecoder1&layout=compact&theme=transparent&border_radius=5&card_width=500"/>
     </a>
-  </p>
-</div>
 

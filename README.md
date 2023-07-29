@@ -14,7 +14,7 @@
   </samp>
 </p>
 
-## ⚡ Work experience
+## ⚡ Experience
 - **Application Developer Intern at NYC Housing Department Corporation** - Application development in the IT Department [New York. Summer 2023]
 - **Tech Mini Mester at Capital One** - Virtual Tech Program [Remote. Summer 2023]
 - **Web Developer at Lehigh University** - Front-end development on the LTS: Web & Mobile Services team [Pennsylvania. Present]

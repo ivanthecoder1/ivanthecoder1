@@ -10,6 +10,7 @@
     <br>
     「 I am a computer science student at Lehigh University, and work as a student web developer」
     <br>
+          「 Hobbies: Anime, Video Games, Weight lifting, Boxing, Biking, Hiking」
     <br>
   </samp>
 </p>

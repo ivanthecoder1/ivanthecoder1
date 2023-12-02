@@ -8,19 +8,18 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a computer science student at Lehigh University, and work as a student web developer」
+    「 I am a CS student at Lehigh University, and currently work as a student web developer. I like working with full stack application development.」
     <br>
-          「 Hobbies: Anime, Video Games, Weight lifting, Boxing, Biking, Hiking」
+          「 Hobbies: Anime, Video Games, Weight lifting, Boxing, Biking」
     <br>
   </samp>
 </p>
 
 ## ⚡ Experience
-- **Web Developer at Lehigh University** - Front-end development on the LTS: Web & Mobile Services team [Pennsylvania. Present]
+- **Web Developer at Lehigh University** - Front-end development on the LTS: Web & Mobile Services department [Pennsylvania. Present]
 - **Application Developer Intern at NYC Housing Department Corporation** - Application development in the IT Department [New York. Summer 2023]
-- **Tech Mini Mester at Capital One** - Virtual Tech Program [Remote. Summer 2023]
 - **Information Technology Intern at The Peak Organization** - IT Technical Support in the Peak Systems, Inc. division [New York. Summer 2022]
-- **FinTech Focus Fellow at Goldman Sachs** - Full-stack web development in the Goldman Sachs Cohort [Remote. Summer 2021]
+- **FinTech Focus Fellow at Giant Machines** - Full-stack web development in the Goldman Sachs Cohort [Remote. Summer 2021]
 
 ## 🖥️ Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

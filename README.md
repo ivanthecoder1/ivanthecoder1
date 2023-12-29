@@ -16,7 +16,6 @@
 </p>
 
 ## ⚡ Experience
-- **Software Engineer Intern at NBCUniversal** - Operations & Technology – Engineering, Corporate Tech [Remote. Summer 2024]
 - **Software Engineer Intern at Studio Corsair** - Full Stack Development [Remote. Spring 2024]
 - **Application Development Intern at NYC Housing Department Corporation** - .NET Application development [New York. Summer 2023]
 - **Web Developer at Lehigh University LTS** - Front-end development in the Web & Mobile Services team [Pennsylvania. Present]

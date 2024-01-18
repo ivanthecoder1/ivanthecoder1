@@ -8,9 +8,9 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a CS student at Lehigh University, and currently work as a student web developer there. I enjoy working with full stack application development and learning new web technologies.」
+    「 I am a CS student at Lehigh University, and currently work as a student web developer there.」
     <br>
-          「 Hobbies: Anime/Manga (Favorites: Dandadan, Chainsaw Man, Blue Lock, Blue Period), Video Games (Nintendo, Souls Genre, indie games, local co-op), Weight lifting, Boxing, Biking」
+          「 Hobbies: Anime/Manga, Gaming, Weight lifting, Boxing」
     <br>
   </samp>
 </p>

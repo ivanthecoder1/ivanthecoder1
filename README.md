@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a CS student at Lehigh University, and currently work as a student web developer there.」
+    「 I am a CS student at Lehigh University, and currently work as a student web developer there. I aim to deepen my understanding in various areas of technology and software development.」
   </samp>
 </p>
 

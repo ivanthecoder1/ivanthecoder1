@@ -9,16 +9,13 @@
   <samp>
     <br>
     「 I am a CS student at Lehigh University, and currently work as a student web developer there.」
-    <br>
-          「 Hobbies: Anime/Manga, Gaming, Weight lifting, Boxing」
-    <br>
   </samp>
 </p>
 
 ## ⚡ Experience
 - **Tech Fellow at CodePath** - Intermediate Web Development Course [Remote. Fall 2024]
 - **Software Engineer Intern at NBCUniversal** - Software Development [Remote. Summer 2024]
-- **Software Engineer Intern at Studio Corsair** - Full Stack Development [Remote. Spring 2024]
+- **Software Engineer Intern at Nasdaq Center** - Full Stack Development [Remote. Spring 2024]
 - **Application Development Intern at NYC Housing Department Corporation** - .NET Application development [New York. Summer 2023]
 - **Web Developer at Lehigh University LTS** - Front-end development in the Web & Mobile Services team [Pennsylvania. Present]
 - **Information Technology Intern at Peak Systems Inc** - IT Technical Support [New York. Summer 2022]

@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Greetings, I am
+        <samp>&gt; Hi, I am
                 <b><a target="_blank" href="https://alsiam.com">Ivan Zhang</a></b>
         </samp>
 </h3>
@@ -8,12 +8,13 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a CS student at Lehigh University, and currently work as a student web developer there. I aim to deepen my understanding in various areas of technology and software development.」
+    「 I'm a senior Lehigh University majoring in computer science, and currently work as a student web developer and grader there. I aim to deepen my understanding in various areas of technology and software development. 」
   </samp>
 </p>
 
 ## ⚡ Experience
 - **Tech Fellow at CodePath** - Intermediate Web Development Course [Remote. Fall 2024]
+- **Lehigh CSE 264 Grader** - Web Systems Programming Course [Pennsylvania. Fall 2024]
 - **Software Engineer Intern at NBCUniversal** - Software Development [Remote. Summer 2024]
 - **Software Engineer Intern at Nasdaq Center** - Full Stack Development [Remote. Spring 2024]
 - **Application Development Intern at NYC Housing Department Corporation** - .NET Application development [New York. Summer 2023]
@@ -24,11 +25,13 @@
 ## 🖥️ Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![TypeScript](https://img.shields.io/badge/Typescript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 <br>
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=express&logoColor=white)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)

@@ -15,12 +15,12 @@
 ## ⚡ Experience
 - **Tech Fellow at CodePath** - Intermediate Web Development Course [Remote. Fall 2024]
 - **Lehigh CSE 264 Grader** - Web Systems Programming Course [Pennsylvania. Fall 2024]
-- **Software Engineer Intern at NBCUniversal** - Software Development [Remote. Summer 2024]
-- **Software Engineer Intern at Nasdaq Center** - Full Stack Development [Remote. Spring 2024]
+- **Software Engineer Intern at NBCUniversal** - Core Applications Team [Remote. Summer 2024]
+- **Software Engineer Intern at Nasdaq Center** - Internal Software Application Development [Remote. Spring 2024]
 - **Application Development Intern at NYC Housing Department Corporation** - .NET Application development [New York. Summer 2023]
-- **Web Developer at Lehigh University LTS** - Front-end development in the Web & Mobile Services team [Pennsylvania. Present]
+- **Web Developer at Lehigh University LTS** - Web & Mobile Services team [Pennsylvania. Present]
 - **Information Technology Intern at Peak Systems Inc** - IT Technical Support [New York. Summer 2022]
-- **FinTech Focus Fellow at Goldman Sachs** - Full-stack web development program in the Goldman Sachs Cohort [Remote. Summer 2021]
+- **FinTech Focus Fellow at Goldman Sachs** - Goldman Sachs Cohort [Remote. Summer 2021]
 
 ## 🖥️ Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

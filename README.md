@@ -16,7 +16,7 @@
 - **Tech Fellow at CodePath** - Intermediate Web Development Course [Remote. Fall 2024]
 - **Lehigh CSE 264 Grader** - Web Systems Programming Course [Pennsylvania. Fall 2024]
 - **Software Engineer Intern at NBCUniversal** - Core Applications Team [Remote. Summer 2024]
-- **Software Engineer Intern at Nasdaq Center** - Internal Software Application Development [Remote. Spring 2024]
+- **Software Engineer Intern at Nasdaq Center** - Internal Payment Software Application Development [Remote. Spring 2024]
 - **Application Development Intern at NYC Housing Department Corporation** - .NET Application development [New York. Summer 2023]
 - **Web Developer at Lehigh University LTS** - Web & Mobile Services team [Pennsylvania. Present]
 - **Information Technology Intern at Peak Systems Inc** - IT Technical Support [New York. Summer 2022]

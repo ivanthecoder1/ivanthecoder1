@@ -1,26 +1,19 @@
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hi, I am
                 <b><a target="_blank" href="https://alsiam.com">Ivan Zhang</a></b>
         </samp>
-</h3>
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 I'm a senior Lehigh University majoring in computer science, and currently work as a student web developer and grader there. I aim to deepen my understanding in various areas of technology and software development. 」
-  </samp>
-</p>
+</h1>
 
 ## ⚡ Experience
-- **Tech Fellow at CodePath** - Intermediate Web Development Course [Remote. Fall 2024]
-- **Lehigh CSE 264 Grader** - Web Systems Programming Course [Pennsylvania. Fall 2024]
-- **Software Engineer Intern at NBCUniversal** - Core Applications Team [Remote. Summer 2024]
-- **Software Engineer Intern at Nasdaq Center** - Internal Payment Software Application Development [Remote. Spring 2024]
-- **Application Development Intern at NYC Housing Department Corporation** - .NET Application development [New York. Summer 2023]
-- **Web Developer at Lehigh University LTS** - Web & Mobile Services team [Pennsylvania. Present]
-- **Information Technology Intern at Peak Systems Inc** - IT Technical Support [New York. Summer 2022]
-- **FinTech Focus Fellow at Goldman Sachs** - Goldman Sachs Cohort [Remote. Summer 2021]
+- Tech Fellow @ CodePath 
+- Grader @ Lehigh Web Systems Programming Course
+- Software Engineer Intern @ NBCUniversal
+- Software Engineer Intern @ Nasdaq Center
+- Application Development Intern @ NYC Housing Department Corporation
+- Web Developer @ Lehigh University LTS
+- Information Technology Intern @ Peak Systems Inc
+- FinTech Focus Fellow @ Goldman Sachs
 
 ## 🖥️ Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,7 +36,5 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<a href="https://github.com/ivanthecoder1">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanthecoder1&layout=compact&theme=transparent&border_radius=5&card_width=500"/>
-    </a>
+
 

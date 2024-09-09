@@ -38,6 +38,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dwcmxicHF6MGZwNnhlZHJnZWIxYjJsZXJxYmJ5bDdiMWgwMGIxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif" width="45%" height="25%" style="border: 20px solid #000000; border-radius: 10px;" />
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dwcmxicHF6MGZwNnhlZHJnZWIxYjJsZXJxYmJ5bDdiMWgwMGIxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif" width="45%" height="25%" style="border: 20px solid #000000; border-radius: 10px;" />
+</div>
+
 
 

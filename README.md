@@ -9,11 +9,11 @@
 ## ⚡ Work Experience
 - Tech Fellow @ CodePath 
 - Grader @ Lehigh Web Systems Programming Course
-- Software Engineer Intern @ NBCUniversal
-- Software Engineer Intern @ Nasdaq Center
-- Application Development Intern @ NYC Housing Department Corporation
-- Web Developer @ Lehigh University LTS
-- Information Technology Intern @ Peak Systems Inc
+- Software Engineer Intern @ Comcast NBCUniversal
+- Software Engineer Intern @ Nasdaq Entrepreneurial Center
+- Application Development Intern @ New York City Housing Department Corporation
+- Web Developer @ Lehigh University Library & Technology Services
+- Information Technology Intern @ Peak Systems, Inc.
 - FinTech Focus Fellow @ Goldman Sachs
 
 ## 🖥️ Technologies

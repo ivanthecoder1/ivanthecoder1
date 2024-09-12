@@ -7,6 +7,7 @@
 
 
 ## ⚡ Work Experience
+- Software Development Intern @ Lehigh University Computer Science & Engineering Department
 - Tech Fellow @ CodePath 
 - Grader @ Lehigh Web Systems Programming Course
 - Software Engineer Intern @ Comcast NBCUniversal
